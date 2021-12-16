@@ -38,6 +38,14 @@ img {
   display: block;
 }
 
+p {
+  margin-bottom: 1.1rem;
+}
+
+ul {
+  margin-bottom: 1.1rem;
+}
+
 li {
-  
+  margin-left: 2rem;
 }
